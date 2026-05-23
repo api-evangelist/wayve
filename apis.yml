@@ -1,0 +1,66 @@
+aid: wayve
+name: Wayve
+description: >-
+  Wayve is a London-based embodied AI company pioneering AV2.0, an end-to-end,
+  mapless, vehicle-agnostic approach to autonomous driving built on large-scale
+  self-supervised learning rather than hand-engineered HD maps and rule stacks.
+  Wayve's core technology stack includes the Wayve AI Driver (the production
+  driving stack licensed to automakers), GAIA generative world models that
+  synthesize realistic driving video from text and serve as simulators for
+  policy training, and LINGO, a vision-language-action research line that uses
+  natural language to train and explain driving decisions. Backed by SoftBank,
+  Microsoft, NVIDIA, and Uber with a 1.5 billion USD funding round, Wayve is
+  partnering with Nissan, Mercedes-Benz, and Stellantis on production
+  programmes, and with Uber and Nissan on a Tokyo robotaxi launch. Wayve does
+  not publish a public developer API; its public surface is research, press,
+  and product positioning material.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: B2B
+tags:
+  - Autonomous Vehicles
+  - Embodied AI
+  - End-to-End Learning
+  - World Models
+  - Generative AI
+  - Self-Driving
+  - AV2.0
+  - GAIA
+  - LINGO
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/wayve/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://wayve.ai
+  - type: AboutUs
+    url: https://wayve.ai/about/
+  - type: Newsroom
+    url: https://wayve.ai/press/
+  - type: Blog
+    url: https://wayve.ai/thinking/
+  - type: Research
+    url: https://wayve.ai/science/
+  - type: Technology
+    url: https://wayve.ai/technology/
+  - type: Product
+    url: https://wayve.ai/product/
+  - type: Safety
+    url: https://wayve.ai/safety/
+  - type: Careers
+    url: https://wayve.ai/careers/
+  - type: Contact
+    url: https://wayve.ai/contact/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/wayve
+  - type: Twitter
+    url: https://twitter.com/wayve_ai
+  - type: YouTube
+    url: https://www.youtube.com/@wayve_ai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
