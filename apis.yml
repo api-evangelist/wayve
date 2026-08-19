@@ -43,7 +43,7 @@ tags:
   - LINGO
 url: >-
   https://raw.githubusercontent.com/api-evangelist/wayve/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: DomainSecurity
